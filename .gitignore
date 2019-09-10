@@ -1,0 +1,8 @@
+*.pyc
+.cache
+.eggs
+.tox
+build
+dist
+pytestdebug.log
+__pycache__
